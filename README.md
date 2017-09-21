@@ -24,4 +24,8 @@ electron main.js
 
 ```
 
+# Blog
+
+http://www.jianshu.com/p/df9cab7a2bbc
+
 
